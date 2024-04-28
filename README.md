@@ -1,4 +1,4 @@
-![Animasi](https://github.com/Lufasu-Adm/PemWeb/blob/main/text.gif)
+![Animasi](https://github.com/Lufasu-Adm/Pemodelan-Dan-SImulasi/blob/main/text.gif)
 
 
 ## Dibuat Oleh
